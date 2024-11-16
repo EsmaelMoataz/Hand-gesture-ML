@@ -59,9 +59,7 @@ This repository contains a deep learning project focused on hand gesture recogni
 
 Contributions are welcome. Please submit a pull request with a clear description of changes or enhancements.
 
-### License:
 
-[Insert License Here, e.g., MIT License]
 
 **Code Snippet (Excerpt)**
 ---------------------------
@@ -77,5 +75,3 @@ optimizer = Adam(learning_rate=0.001, clipnorm=1.0)
 model_2d.compile(optimizer=optimizer, loss='categorical_crossentropy', metrics=['accuracy'])
 ```
 
-**Full Codebase:**
-[Link to the Code in this GitHub Repository]
