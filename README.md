@@ -55,9 +55,6 @@ This repository contains a deep learning project focused on hand gesture recogni
 4. Update `local_train_dir` and `local_val_dir` in the script to point to your training and validation datasets.
 5. Run the main script to initiate the K-Fold cross-validation training process.
 
-### Contributing:
-
-Contributions are welcome. Please submit a pull request with a clear description of changes or enhancements.
 
 
 
